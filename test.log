@@ -1,0 +1,12 @@
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error message
+CRITICAL:root:Critical message
+INFO:root:Division Process Starting
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "c:\Users\ANWAR\Desktop\python_course\class_12\test_logging.py", line 29, in <module>
+    div = a/b
+ZeroDivisionError: division by zero
+INFO:root:Division Completed
+INFO:root:all done
